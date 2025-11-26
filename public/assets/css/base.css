@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&family=UnifrakturMaguntia&display=swap');
+
+:root{
+    --color-main: #000000;
+    --color-second: #FFFFFF;
+    --color-third: #494949;
+    --color-fourth: #7C7A7A;
+    --color-fifth: #FF5D73;
+}
+
+:root[data-theme="dark"]{
+    --color-main: #FFFFFF;
+    --color-second: #000000;
+    --color-third: #bfbfbf;
+    --color-fourth: #d9d4d4;
+    --color-fifth: #625dff;
+}
