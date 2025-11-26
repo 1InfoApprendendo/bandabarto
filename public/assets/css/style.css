@@ -5,8 +5,8 @@ body {
     font-family: sans-serif;
     margin: 0;
     padding: 0;
-    background-color: --color-first;
-    color: --color-second;
+    background-color: var(--color-main);
+    color: var(--color-second);
 }
 
 .container {
